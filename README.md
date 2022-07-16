@@ -7,7 +7,7 @@
 📫 How to reach me:
 - LinkedIn: [tsteenbe](https://linkedin.com/in/tsteenbe)
 - Twitter: [@tsteenbe](twitter.com/tsteenbe)
-- [ORT Slack channel](https://join.slack.com/t/ort-talk/shared_invite/enQtMzk3MDU5Njk0Njc1LThiNmJmMjc5YWUxZTU4OGI5NmY3YTFlZWM5YTliZmY5ODc0MGMyOWIwYmRiZWFmNGMzOWY2NzVhYTI0NTJkNmY): Thomas Steenbergen
+- [ORT Slack channel](https://join.slack.com/t/ort-talk/shared_invite/zt-1c7yi4sj6-mk7R1fAa6ZdW5MQ6DfAVRg): Thomas Steenbergen
 - [TODO Slack channel](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew): Thomas Steenbergen
 
 💬 Ask me anything open source, dealing with toddlers or about my two cats 😺
