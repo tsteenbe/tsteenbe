@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-🏢 I’m currently at <a href="http://www.epam.com">EPAM Systems</a> managing the open source program and helping organizations with their open source challenges such as starting and/or running an [Open Source Program Office](https://ospodefinition.org) (OSPO).
+🏢 I’m currently at <a href="http://www.epam.com">EPAM Systems</a> leading its Open Source Program Office and helping organizations with their open source challenges such as starting and/or running an [Open Source Program Office](https://ospodefinition.org) (OSPO).
 
 🤝 I’m looking to collaborate on open source supply chain and managing open source in organizations.
 
