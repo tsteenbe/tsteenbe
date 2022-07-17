@@ -23,7 +23,10 @@ OSS Review Toolkit (ORT) provides tooling to safely use, integrate, modify and r
 You can use it to:
 - Generate [CycloneDX](https://cyclonedx.org) or [SPDX](https://spdx.dev) SBOMs for your software project
 - Automate your FOSS policy using _Policy as Code_ to do licensing, security vulnerabilities and engineering standards checks for your software project and its dependencies
-- Create a source code archive for your software project, including its dependencies
+- Correct found invalid or missing package metadata (licensing, source location, etc.)
+- Overwrite scanner license findings in the sources of your software project and its dependencies
+- Mark files, directories or or package manager scopes as not included in your software project or dependency released artifacts - use it to make clear that license findings in build scripts, documentation or tests in a package sources do not apply to the release (binary) artifact
+- Create a source code archive for your software project, including its dependencies to comply with certain licenses or have your own copy as nothing on the internet is forever
 
 I'm one of the project's maintainers and a frequent speaker at conferences as the project's spokesperson.
 
