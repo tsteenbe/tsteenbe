@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 - LinkedIn: [tsteenbe](https://linkedin.com/in/tsteenbe)
-- Twitter: [@tsteenbe](twitter.com/tsteenbe)
+- Twitter: [@tsteenbe](https://twitter.com/tsteenbe)
 - [ORT Slack channel](https://join.slack.com/t/ort-talk/shared_invite/zt-1c7yi4sj6-mk7R1fAa6ZdW5MQ6DfAVRg): Thomas Steenbergen
 - [TODO Slack channel](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew): Thomas Steenbergen
 
