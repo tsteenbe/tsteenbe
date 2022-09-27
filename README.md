@@ -1,16 +1,16 @@
 ## Hi there 👋 
 
-🏢 I’m currently at <a href="http://www.epam.com">EPAM Systems</a> leading its Open Source Program Office and helping organizations with their open source challenges such as starting and/or running an [Open Source Program Office](https://ospodefinition.org) (OSPO).
+🏢 I’m currently at <a href="http://www.epam.com">EPAM Systems</a> leading its [Open Source Program Office](https://ospodefinition.org) (OSPO) and helping organizations manage open source in a strategic and efficient manner that meets their business needs.
 
-🤝 I’m looking to collaborate on open source supply chain and managing open source in organizations.
+🤝 I’m looking to collaborate on open source supply chain (security) and managing open source in organizations. Open to speaking opportunities.
+
+💬 Ask me anything open source, dealing with toddlers or about my two cats 😺
 
 📫 How to reach me:
 - LinkedIn: [tsteenbe](https://linkedin.com/in/tsteenbe)
 - Twitter: [@tsteenbe](https://twitter.com/tsteenbe)
 - [ORT Slack channel](https://join.slack.com/t/ort-talk/shared_invite/zt-1c7yi4sj6-mk7R1fAa6ZdW5MQ6DfAVRg): Thomas Steenbergen
 - [TODO Slack channel](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew): Thomas Steenbergen
-
-💬 Ask me anything open source, dealing with toddlers or about my two cats 😺
 
 🏳️‍🌈 Pronouns: he/him
 
@@ -32,7 +32,7 @@ I'm one of the project's maintainers and a frequent speaker at conferences as th
 
 #### <a href="https://github.com/spdx/spdx-spec">SPDX</a>
 
-Software Package Data Exchange (SPDX) is an open standard for software bill of materials (SBOM). SPDX allows the expression of components, licenses, copyrights, security references and other metadata relating to software. I'm currently the lead for [Defects team](https://lists.spdx.org/g/spdx-defects) working to exchange quality, vulnerability, and software supportability information in SPDX.
+Software Package Data Exchange (SPDX) is an open standard for Software Bill of Materials (SBOM). SPDX allows the expression of components, licenses, copyrights, security references and other metadata relating to software. I'm currently the lead for [Defects team](https://lists.spdx.org/g/spdx-defects) working to exchange quality, vulnerability, and software supportability information in SPDX.
 
 #### <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 
