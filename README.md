@@ -46,4 +46,6 @@ OpenChain Project is an open standard for open source license compliance. It all
 
 OpenSSF is committed to collaboration and working both upstream and with existing communities to advance open source security for all. I am contributor to the [SBOM Everywhere](https://github.com/ossf/sbom-everywhere) SIG.
 
+#### <a href="https://www.bitkom.org/EN/">Bitkom</a>
 
+Bitkom is Germany’s digital association. I am contributor to the [Bitkom Open Source Work Group](https://www.bitkom.org/opensource).
