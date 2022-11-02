@@ -36,7 +36,7 @@ Software Package Data Exchange (SPDX) is an open standard for Software Bill of M
 
 #### <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 
-TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm a co-founder of the European chapter of TODO Group and currently a TODO steering committee member.
+TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm a co-founder of the European chapter of TODO Group, creator/organizer of the [OSPOlogy.live](https://github.com/todogroup/ospology/blob/main/ospology-live/framework.md) and currently a [TODO steering committee member](https://github.com/todogroup/governance#todo-steering-committee-tsc).
 
 #### <a href="https://www.openchainproject.org/">OpenChain</a>
 
@@ -45,3 +45,5 @@ OpenChain Project is an open standard for open source license compliance. It all
 #### <a href="https://openssf.org/">OpenSSF</a>
 
 OpenSSF is committed to collaboration and working both upstream and with existing communities to advance open source security for all. I am contributor to the [SBOM Everywhere](https://github.com/ossf/sbom-everywhere) SIG.
+
+
