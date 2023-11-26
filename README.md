@@ -14,7 +14,9 @@
 
 🏳️‍🌈 Pronouns: he/him
 
-### Projects I'm busy with...
+### Projects 
+
+I'm regularly contributing to...
 
 #### <a href="https://github.com/oss-review-toolkit/ort">OSS Review Toolkit</a>
 
@@ -54,3 +56,21 @@ I am a contributor to various projects within [FINOS Open Source Readiness](http
 #### <a href="https://www.bitkom.org/EN/">Bitkom</a>
 
 Bitkom is Germany’s digital association. I am contributor to the [Bitkom Open Source Work Group](https://www.bitkom.org/opensource).
+
+### Talks
+
+Below a selection of some of my past presentations...
+
+- [Aligning the wishes of various organizations into an open source project’s roadmap](https://drive.google.com/file/d/14Kecjl2iT5wCi2PkYk9lmI1VHLvzNKAf/view)
+- [Running an OSPO the Open Source / Inner Source way - the Why, What and How](https://www.youtube.com/watch?v=n8hEJYabRv8)
+- [ORT: Automate compliance using Open Source & InnerSource](https://program.foss-backstage.de/fossback23/talk/RZ8L37/)
+- [Manage open source, security and SBOMs for your software projects or organization](https://www.youtube.com/watch?v=F6EEuEN5sag)
+- [Mind Mapping Open Source Program Offices](https://osseu2022.sched.com/event/15z2z/mind-mapping-open-source-program-offices-ana-jimenez-santamaria-todo-group-thomas-steenbergen-epam)
+- [Generating a SPDX SBOM for your Code in GitLab CI using ORT](https://static.sched.com/hosted_files/ocs2021/e2/Generating-a-SPDX-SBOM-for-your-code-in-GitLab-CI-using-ORT-Thomas-Steenbergen.pdf)
+- [How we do compliance at HERE Technologies using OSS Review Toolkit](https://drive.google.com/file/d/1f8Z3DAaz7Jxcf39PWCeVNuv1HT6khELp/view)
+- [Automating your license compliance policy with OSS Review Toolkit](https://archive.fosdem.org/2021/schedule/event/sca_automating_license_compliance_with_ort/)
+- [Automating FOSS Reviews for a large company with a small team](https://static.sched.com/hosted_files/ocs2020/c2/automating-foss-reviews-for-a-large-company-with-a-small-team-thomas-steenbergen.pdf)
+- [OpenChain + OSS Review Toolkit: the why, what and how](https://wiki.linuxfoundation.org/_media/openchain/191217_oss-review-toolkit-openchain-why-what-how_jp_caption_incl_.pdf)
+- [Starting and scaling an Open Source Office](https://static.sched.com/hosted_files/osls19/f1/Starting%20and%20scaling%20an%20Open%20Source%20Office%20-%20v2.pdf)
+- [Managing Open Source better together](https://events19.linuxfoundation.org/wp-content/uploads/2018/07/Managing-Open-Source-Better-Together.pdf)
+
