@@ -1,8 +1,11 @@
 ## Hi there 👋 
 
-🏢 I’m currently at <a href="http://www.epam.com">EPAM Systems</a> leading its [Open Source Program Office](https://ospodefinition.org) (OSPO) and helping organizations manage open source in a strategic and efficient manner that meets their business needs.
+🏢 I help organizations manage open source in a strategic, safe and efficient manner that meets their business needs. Or as I like to put it "How can we do open source
+at scale and speed whilst staying safe, respect licenses, enable upstream sustainability, and make life easier for our devs?"
 
-🤝 I’m looking to collaborate on open source supply chain (security) and managing open source in organizations. Open to speaking opportunities.
+I have been working on answering the above question as an open source project maintainer/contributor of various [projects](#projects) and by sharing my [experiences](#talks) trying to help the open source commmunity move forward.
+
+🤝 I’m looking to collaborate on open source supply chain (security), [SBOM](https://www.cisa.gov/sbom), and managing open source in organizations. Open to speaking opportunities.
 
 💬 Ask me anything open source, dealing with toddlers or about my two cats 😺
 
@@ -38,7 +41,7 @@ Software Package Data Exchange (SPDX) is an open standard for Software Bill of M
 
 #### <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 
-TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm a co-founder of the European chapter of TODO Group, creator/organizer of the [OSPOlogy.live](https://github.com/todogroup/ospology/blob/main/ospology-live/framework.md) and currently a [TODO steering committee member](https://github.com/todogroup/governance#todo-steering-committee-tsc).
+TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm a co-founder of the European chapter of TODO Group, creator/organizer of the [OSPOlogy.live](https://github.com/todogroup/ospology/blob/main/ospology-live/framework.md) and ex-[TODO steering committee member](https://github.com/todogroup/governance#todo-steering-committee-tsc).
 
 #### <a href="https://www.openchainproject.org/">OpenChain</a>
 
