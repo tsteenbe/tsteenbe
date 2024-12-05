@@ -37,7 +37,7 @@ I'm one of the project's maintainers and a frequent speaker at conferences as th
 
 #### <a href="https://github.com/spdx/spdx-spec">SPDX</a>
 
-Software Package Data Exchange (SPDX) is an open standard for Software Bill of Materials (SBOM). SPDX allows the expression of components, licenses, copyrights, security references and other metadata relating to software. I'm currently the lead for [Defects team](https://lists.spdx.org/g/spdx-defects) working to exchange quality, vulnerability, and software supportability information in SPDX.
+Software Package Data Exchange (SPDX) is an open standard for Software Bill of Materials (SBOM). SPDX allows the expression of components, licenses, copyrights, security references and other metadata relating to software. I'm currently the [lead](https://spdx.dev/engage/participate/technical-team/) for [Security Profile specfication](https://lists.spdx.org/g/spdx-defects) working to exchange quality, vulnerability, and software supportability information in SPDX.
 
 #### <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 
